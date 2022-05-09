@@ -1,7 +1,7 @@
 #      About Me
 - 👋 *Hi, I’m Dibbyarup Dutta aka @dibby_dev.*
 - 👀 *I’m interested in building and developing softwares and applications that solve real world problems.*
-- 🌱 *I’m currently learning C/C++.*
+- 🌱 *I’m currently learning Web Development.*
 - 💞️ *I’m looking to collaborate on ...*
 ###  📫 Connect with me on: 
 >[**Linkedin**](https://www.linkedin.com/dibbyarup_dutta) 
